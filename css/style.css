@@ -1,0 +1,16 @@
+*   {
+    background-color: cornsilk;
+}
+h1  {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: x-large;
+}
+h3  {
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: large;
+}
